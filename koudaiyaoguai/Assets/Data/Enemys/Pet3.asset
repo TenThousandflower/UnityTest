@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb07c22c238e954aa5285dc450113f5, type: 3}
+  m_Name: Pet3
+  m_EditorClassIdentifier: 
+  petName: "\u5730\u72F1\u72AC"
+  petImage: {fileID: -3724514210783730073, guid: db75c4dd13b5b4d44a4a227779a5c3ad, type: 3}
+  petLevel: 4
+  petExp: 0
+  petEvolution: 1
+  petLevelUp: 
+  petMaxHp: 6
+  petCurrentHp: 6
+  petAttribute: huo
+  petPhDamage: 2
+  petMaDamage: 2
+  petPhAnti: 2
+  petMaAnti: 2
+  petStudyState: MaDamage
+  petLevelUpAdd: 1
+  petSkill: []
+  petInfo: "\u5730\u72F1\u72AC\uFF0C\u706B\u7CFB\u795E\u5947\u5B9D\u8D1D"

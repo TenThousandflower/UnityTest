@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb07c22c238e954aa5285dc450113f5, type: 3}
+  m_Name: Pet8
+  m_EditorClassIdentifier: 
+  petName: "\u80D6\u4E01"
+  petImage: {fileID: 4829742239670414492, guid: db75c4dd13b5b4d44a4a227779a5c3ad, type: 3}
+  petLevel: 11
+  petExp: 0
+  petEvolution: 1
+  petLevelUp: 
+  petMaxHp: 15
+  petCurrentHp: 15
+  petAttribute: putong
+  petPhDamage: 9
+  petMaDamage: 8
+  petPhAnti: 13
+  petMaAnti: 10
+  petStudyState: PhAnti
+  petLevelUpAdd: 4
+  petSkill: []
+  petInfo: "\u80D6\u4E01\uFF0C\u559C\u6B22\u8BA9\u522B\u4EBA\u542C\u5B83\u5531\u6B4C"

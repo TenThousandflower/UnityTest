@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb07c22c238e954aa5285dc450113f5, type: 3}
+  m_Name: Pet14
+  m_EditorClassIdentifier: 
+  petName: "\u6C34\u8DC3\u9C7C"
+  petImage: {fileID: 301033883459096901, guid: db75c4dd13b5b4d44a4a227779a5c3ad, type: 3}
+  petLevel: 22
+  petExp: 0
+  petEvolution: 1
+  petLevelUp: 
+  petMaxHp: 23
+  petCurrentHp: 23
+  petAttribute: shui
+  petPhDamage: 21
+  petMaDamage: 20
+  petPhAnti: 18
+  petMaAnti: 17
+  petStudyState: PhAnti
+  petLevelUpAdd: 5
+  petSkill: []
+  petInfo: "\u6C34\u8DC3\u9C7C\uFF0C\u6C34\u7CFB\u795E\u5947\u5B9D\u8D1D\uFF0C\u53EF\u4EE5\u8DF3\u5F88\u9AD8"
